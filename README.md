@@ -79,7 +79,7 @@ If you're interested in collaborating on a data science project or just want to 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishiraj-singh-hada-91830a220/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrajsinghhada@gmail.com)
-[![Codechef](https://img.icons8.com/?size=512&id=vAtJFm3hwtQw&format=png)]([https://www.codechef.com/users/rishiraj_0701])
+<!-- [![Codechef](https://img.icons8.com/?size=512&id=vAtJFm3hwtQw&format=png)](https://www.codechef.com/users/rishiraj_0701) -->
 
 
 Thanks for stopping by, and I hope to connect with you soon!
