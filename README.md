@@ -28,8 +28,8 @@ Welcome to my happy little corner of the internet! As a Machine Learning enthusi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=Python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<!-- ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=Python&logoColor=white) -->
+<!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) -->
 <!-- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) -->
 <!-- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white) -->
 <!-- ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white) -->
@@ -40,9 +40,9 @@ Welcome to my happy little corner of the internet! As a Machine Learning enthusi
 
 ### Machine Learning and Deep Learning:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
-<!-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) -->
-<!-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
@@ -56,20 +56,20 @@ Welcome to my happy little corner of the internet! As a Machine Learning enthusi
 ---
 
 
-### Other Data Science Technologies:
+<!-- ### Other Data Science Technologies:
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-339933?style=for-the-badge&logo=python&logoColor=white)
 ![Snscrape](https://img.shields.io/badge/Snscrape-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) -->
+<!-- 
+<!-- --- -->
 
----
 
-
-### Extra (Who knows when it might be needed):
+<!-- ### Extra (Who knows when it might be needed):
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Adobe Cloud Suite](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-
+![Adobe Cloud Suite](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) -->
+ -->
 
 ---
 
