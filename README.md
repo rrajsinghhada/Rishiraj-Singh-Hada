@@ -75,7 +75,7 @@ Welcome to my joyful corner of the internet! As an avid Machine Learning enthusi
 
 
 ## Let's Connect! 🤝
-If you're interested in collaborating on a data science project or just want to chat about all things data, I'd love to hear from you! You can reach out to me via email or connect with me on LinkedIn.
+If you're interested in collaborating on a data science project or simply engaging in a conversation about all things data, I would be thrilled to connect with you! Feel free to reach out to me via email or connect with me on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishiraj-singh-hada-91830a220/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrajsinghhada@gmail.com)
