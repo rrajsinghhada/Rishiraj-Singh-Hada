@@ -28,7 +28,7 @@ Welcome to my joyful corner of the internet! As an avid Machine Learning enthusi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Python&logoColor=white)
-<!-- ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=Python&logoColor=white) -->
+![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=Python&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) -->
 <!-- ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black) -->
 <!-- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white) -->
